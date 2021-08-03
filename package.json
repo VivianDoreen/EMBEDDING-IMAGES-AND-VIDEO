@@ -1,0 +1,23 @@
+{
+  "name": "embedding-images-and-video",
+  "version": "1.0.0",
+  "description": "This project is an exact replica of the YouTube video page, but the focus is on making the media elements show up. That means two things – embedding the YouTube video player into the page so it actually plays and showing little thumbnail images along the right side.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivianDoreen/EMBEDDING-IMAGES-AND-VIDEO.git"
+  },
+  "author": "Vivian Doreen Nabulo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VivianDoreen/EMBEDDING-IMAGES-AND-VIDEO/issues"
+  },
+  "homepage": "https://github.com/VivianDoreen/EMBEDDING-IMAGES-AND-VIDEO#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
